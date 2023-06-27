@@ -144,7 +144,7 @@ button.white{
 
 /* Home Page Starts Here */
 #hero {
-    background-image: url("img/hero4.png");
+    background-image: url("img/home2.jpg");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -160,7 +160,7 @@ button.white{
 }
 
 #hero h1{
-    color: #088178;
+    color: #0797bb;
 }
 
 #hero button{

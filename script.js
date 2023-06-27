@@ -13,3 +13,7 @@ if (bar) {
         nav.classList.remove('active');
     })
 }
+
+fetch(https://newsapi.org/v2/everything?q=tesla&from=2023-05-22&sortBy=publishedAt&apiKey=c13dd95ce8be4d37b1a5bec12cbba940
+
+)
